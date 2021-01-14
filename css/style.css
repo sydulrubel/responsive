@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(247, 241, 247);
+}
+.headline{
+    font-size: 60px;
+    color: rgb(41, 44, 70);
+}
+span{
+    color: rgb(228, 158, 28);
+}
+.btcol{
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
+.symble img{
+    height: 80px;
+    width: 80px;
+}
+h1, h4, h5{
+    color: rgb(41, 44, 70);
+}
+h2{
+    color: rgb(216, 172, 78);
+}
+
